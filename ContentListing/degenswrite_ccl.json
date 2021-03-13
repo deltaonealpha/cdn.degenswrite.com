@@ -1,0 +1,34 @@
+{
+   "poems": [
+      {
+         "epns":"1",
+         "title": "The Night",
+         "urlLocation": "episodes/Poems/ep1.html"
+      }, 
+      {
+         "epns":"2",
+         "title": "The Girl",
+         "urlLocation": "episodes/Poems/ep2.html"
+      }, 
+      {
+         "epns":"3",
+         "title": "A Happy Christmas",
+         "urlLocation": "episodes/Poems/ep3.html"
+      }, 
+      {
+         "epns":"4",
+         "title": "Meek Dullard",
+         "urlLocation": "episodes/Poems/ep4.html"
+      }, 
+      {
+         "epns":"5",
+         "title": "20th October",
+         "urlLocation": "episodes/Poems/ep5.html"
+      }, 
+   ],
+
+   "stories": [	
+      {
+      }
+   ]
+}
