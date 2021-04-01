@@ -6,6 +6,7 @@
 */
 
 (function() {
+const moment= require('moment')
   var ALL_DAYS, DateRange, StreakCalculator, Streaker;
 
   DateRange = (function() {
